@@ -1,0 +1,101 @@
+﻿Modalidad;Origen;Puerto Destino;Tipo Carga;Flete USD;Seguro USD;Costos Portuarios USD;Costo Total USD
+FCL;Brasil;Buenaventura;General;6400,04;128;620,23;7148,27
+FCL;México;Barranquilla;General;3315,89;66,32;519,19;3901,4
+LCL;México;Barranquilla;Refrigerada;934,31;18,69;932,46;1885,46
+LCL;USA;Santa Marta;General;7794,9;155,9;499,1;8449,9
+Aéreo;USA;Bogotá (Aéreo);Peligrosa;2940,46;58,81;831,26;3830,53
+FCL;USA;Santa Marta;Peligrosa;3881,56;77,63;559,21;4518,4
+Aéreo;USA;Bogotá (Aéreo);Peligrosa;679,09;13,58;1109,12;1801,79
+Aéreo;China;Bogotá (Aéreo);General;1238,21;24,76;840,21;2103,18
+LCL;USA;Cartagena;Peligrosa;6308,19;126,16;834,24;7268,59
+LCL;USA;Buenaventura;General;7671,42;153,43;1407,95;9232,8
+LCL;USA;Barranquilla;Peligrosa;2248,21;44,96;1291,13;3584,3
+Aéreo;USA;Bogotá (Aéreo);Peligrosa;4341,43;86,83;588,66;5016,92
+LCL;China;Buenaventura;General;2069,83;41,4;286,12;2397,35
+LCL;USA;Barranquilla;General;1454,44;29,09;176,23;1659,76
+FCL;USA;Buenaventura;General;3023,26;60,47;801,46;3885,19
+LCL;USA;Cartagena;Refrigerada;3105,17;62,1;1030,33;4197,6
+FCL;USA;Buenaventura;General;2650,36;53,01;354,1;3057,47
+LCL;China;Barranquilla;Peligrosa;6489,58;129,79;723,06;7342,43
+LCL;México;Cartagena;Refrigerada;4413,2;88,26;510,97;5012,43
+FCL;Alemania;Santa Marta;General;1314,16;26,28;236,72;1577,16
+Aéreo;USA;Bogotá (Aéreo);Peligrosa;7188,15;143,76;1438,79;8770,7
+LCL;México;Santa Marta;Peligrosa;706,16;14,12;804,02;1524,3
+LCL;Alemania;Cartagena;Peligrosa;7322,46;146,45;708,6;8177,51
+FCL;China;Cartagena;Refrigerada;3611,77;72,24;875,72;4559,73
+LCL;Alemania;Santa Marta;Peligrosa;7017,99;140,36;924,43;8082,78
+FCL;Brasil;Cartagena;Peligrosa;7161,63;143,23;1023,44;8328,3
+FCL;Brasil;Cartagena;General;4729,53;94,59;888,54;5712,66
+LCL;México;Santa Marta;General;2589,67;51,79;117,9;2759,36
+Aéreo;Alemania;Bogotá (Aéreo);Peligrosa;3693,37;73,87;1066,03;4833,27
+Aéreo;México;Bogotá (Aéreo);Peligrosa;1159,79;23,2;111,21;1294,2
+LCL;China;Santa Marta;General;6213,77;124,28;112,3;6450,35
+FCL;USA;Barranquilla;General;5808,23;116,16;1005,08;6929,47
+LCL;USA;Santa Marta;General;3844,53;76,89;1299,66;5221,08
+LCL;USA;Santa Marta;Peligrosa;1096,14;21,92;1008,03;2126,09
+FCL;USA;Barranquilla;Refrigerada;7480,05;149,6;492,27;8121,92
+LCL;China;Barranquilla;Peligrosa;7953,84;159,08;890,11;9003,03
+FCL;USA;Cartagena;General;2851,96;57,04;717,04;3626,04
+FCL;USA;Barranquilla;General;2479,39;49,59;766,84;3295,82
+FCL;México;Buenaventura;Peligrosa;885,5;17,71;808,49;1711,7
+Aéreo;México;Bogotá (Aéreo);General;5744,49;114,89;412,46;6271,84
+FCL;Alemania;Barranquilla;General;869,66;17,39;970,53;1857,58
+FCL;USA;Barranquilla;Refrigerada;4284,37;85,69;154,86;4524,92
+FCL;Brasil;Barranquilla;Refrigerada;6746,91;134,94;1205,5;8087,35
+LCL;México;Buenaventura;Refrigerada;7102,33;142,05;487,19;7731,57
+LCL;Alemania;Cartagena;General;4175,91;83,52;1185,74;5445,17
+FCL;USA;Cartagena;Refrigerada;2107,89;42,16;597,58;2747,63
+FCL;México;Santa Marta;Refrigerada;6433,84;128,68;1319,77;7882,29
+FCL;China;Barranquilla;General;2722,44;54,45;1303,14;4080,03
+Aéreo;USA;Bogotá (Aéreo);Peligrosa;1473,96;29,48;592,41;2095,85
+Aéreo;México;Bogotá (Aéreo);Refrigerada;6490,87;129,82;524,5;7145,19
+LCL;México;Cartagena;General;1031,36;20,63;359,9;1411,89
+FCL;USA;Buenaventura;Refrigerada;6603,8;132,08;1179,2;7915,08
+Aéreo;USA;Bogotá (Aéreo);General;5461,39;109,23;1152,2;6722,82
+LCL;Brasil;Barranquilla;General;4600,23;92;1471,24;6163,47
+Aéreo;México;Bogotá (Aéreo);General;4842,13;96,84;614,08;5553,05
+FCL;México;Santa Marta;Refrigerada;1400,63;28,01;549,15;1977,79
+LCL;Alemania;Buenaventura;Peligrosa;3446,94;68,94;659,63;4175,51
+FCL;Alemania;Cartagena;Peligrosa;7149,66;142,99;682,54;7975,19
+LCL;Alemania;Buenaventura;General;4362,51;87,25;1373,81;5823,57
+Aéreo;Brasil;Bogotá (Aéreo);Peligrosa;2972,84;59,46;413,74;3446,04
+Aéreo;México;Bogotá (Aéreo);Refrigerada;2467,18;49,34;125,59;2642,11
+LCL;USA;Barranquilla;Peligrosa;1374,97;27,5;573;1975,47
+FCL;México;Barranquilla;Refrigerada;5751,11;115,02;354,76;6220,89
+Aéreo;USA;Bogotá (Aéreo);General;4032,79;80,66;784,75;4898,2
+Aéreo;Brasil;Bogotá (Aéreo);General;6163,88;123,28;714,12;7001,28
+LCL;China;Buenaventura;General;3064,47;61,29;583;3708,76
+FCL;USA;Barranquilla;Peligrosa;5190,32;103,81;1361,72;6655,85
+FCL;USA;Buenaventura;Refrigerada;1552,66;31,05;174,64;1758,35
+LCL;México;Santa Marta;Peligrosa;1173,38;23,47;796,36;1993,21
+LCL;Brasil;Buenaventura;Refrigerada;1598,4;31,97;107,2;1737,57
+FCL;México;Cartagena;Peligrosa;4857,29;97,15;713,78;5668,22
+LCL;Alemania;Santa Marta;Refrigerada;6079,08;121,58;1224,34;7425
+FCL;Alemania;Cartagena;Peligrosa;6770,86;135,42;1423,6;8329,88
+Aéreo;México;Bogotá (Aéreo);Peligrosa;700,69;14,01;475,2;1189,9
+FCL;México;Santa Marta;Peligrosa;6855,4;137,11;322,57;7315,08
+FCL;USA;Barranquilla;Peligrosa;4605,61;92,11;555,87;5253,59
+FCL;México;Cartagena;General;7504,78;150,1;1381,55;9036,43
+Aéreo;México;Bogotá (Aéreo);Peligrosa;5936,56;118,73;1055,84;7111,13
+Aéreo;México;Bogotá (Aéreo);Peligrosa;5158,87;103,18;1374,19;6636,24
+Aéreo;China;Bogotá (Aéreo);General;7678,77;153,58;551,11;8383,46
+Aéreo;USA;Bogotá (Aéreo);Peligrosa;2946,92;58,94;1339,66;4345,52
+FCL;China;Barranquilla;General;6617,83;132,36;827,99;7578,18
+LCL;USA;Santa Marta;Refrigerada;1243,33;24,87;689,49;1957,69
+Aéreo;Brasil;Bogotá (Aéreo);General;3943,28;78,87;1319,19;5341,34
+Aéreo;Brasil;Bogotá (Aéreo);General;2722,79;54,46;309,89;3087,14
+Aéreo;México;Bogotá (Aéreo);Refrigerada;1790,32;35,81;256,17;2082,3
+FCL;México;Barranquilla;Refrigerada;6494,22;129,88;471,66;7095,76
+Aéreo;México;Bogotá (Aéreo);General;2487,79;49,76;717,94;3255,49
+FCL;México;Barranquilla;Peligrosa;4895,01;97,9;922,62;5915,53
+Aéreo;México;Bogotá (Aéreo);Peligrosa;1650,52;33,01;454,79;2138,32
+FCL;México;Cartagena;Refrigerada;6509,01;130,18;1386,69;8025,88
+Aéreo;USA;Bogotá (Aéreo);Peligrosa;5676,42;113,53;781,36;6571,31
+FCL;China;Barranquilla;Refrigerada;635,14;12,7;445,86;1093,7
+LCL;Brasil;Cartagena;General;4161,38;83,23;1188,68;5433,29
+Aéreo;Brasil;Bogotá (Aéreo);Refrigerada;4717,34;94,35;941,14;5752,83
+Aéreo;Brasil;Bogotá (Aéreo);General;7764,39;155,29;259,54;8179,22
+FCL;China;Barranquilla;General;5068,19;101,36;1377,07;6546,62
+Aéreo;Brasil;Bogotá (Aéreo);General;7981,99;159,64;808,36;8949,99
+LCL;Brasil;Santa Marta;Refrigerada;6800,68;136,01;730,71;7667,4
+Aéreo;Alemania;Bogotá (Aéreo);Refrigerada;7070,79;141,42;707,08;7919,29

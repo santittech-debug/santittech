@@ -1,2 +1,4 @@
-Streamlit
+streamlit
 matplotlib
+seaborn
+plotly
